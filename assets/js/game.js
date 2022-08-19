@@ -24,7 +24,7 @@ var enemyName = "Roborto";
 var enemyHealth = 50;
 var enemyAttack = 12;
 
-var fight = function() {
+var fight = function () {
   window.alert("Welcome to Robot Gladiators!");
 };
 enemyHealth = enemyHealth - playerAttack;
@@ -32,7 +32,7 @@ playerHealth = playerHealth - enemyAttack;
 console.log(
   //playerName + " attacked " + enemyName + ". " + enemyName + " now has " + enemyHealth + " health remaining."
   enemyName + " attacked " + playerName + ". " + playerName + " now has " + playerHealth + " health remaining."
-  );
+);
 
 
 fight();
