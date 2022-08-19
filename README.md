@@ -108,4 +108,4 @@ The following mock up image shows required display:
 * Date Submitted: August #, 2022
 * The URL of the deployed application: https://bslockhart.github.io/robot-gladiators/
 * The URL of the GitHub repository that contains your code: https://github.com/bslockhart/robot-gladiators
-Give the repository a unique name and include a README file that describes the project.
+Give the repository a unique name and include a README file that describes the project. 

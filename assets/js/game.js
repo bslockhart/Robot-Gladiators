@@ -286,3 +286,4 @@ var enemyInfo = [
 
 /* RUN GAME */
 startGame();
+ 
